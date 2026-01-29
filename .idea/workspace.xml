@@ -5,8 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2f9f118-2fce-4398-bc46-b8cbb57d1749" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Classroom/src/array_2d/add_2d_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classroom/src/addtion_of_matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classroom/src/array_2d/multiplication_matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classroom/src/array_addition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classroom/src/sum_of_diagonal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classroom/src/transpose_matrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classroom/src/array_2d/add_2d_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/Classroom/src/array_2d/add_2d_array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA-Practice/Classroom/src/multiplication_matrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA-Practice/addition_of_user_input.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA-Practice/count_neg_pos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA-Practice/deletion_of_array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA-Practice/duplicate_delete.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA-Practice/findoffeven.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA-Practice/insertation_array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA-Practice/linear_search.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA-Practice/occurence_0f_array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA-Practice/occurence_of_array.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +54,9 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="38tdWPF2BOul9T6H3sBvfnjqbrL" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -47,7 +65,7 @@
   "keyToString": {
     "Application.add_2d_array.executor": "Run",
     "Application.multiplication_matrix (1).executor": "Run",
-    "Application.multiplication_matrix.executor": "Debug",
+    "Application.multiplication_matrix.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -59,7 +77,7 @@
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.add_2d_array">
+  <component name="RunManager" selected="Application.multiplication_matrix">
     <configuration name="add_2d_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Classroom.src.array_2d.add_2d_array" />
       <module name="DSA-Practice" />
@@ -81,11 +99,11 @@
       </method>
     </configuration>
     <configuration name="multiplication_matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Classroom.src.multiplication_matrix" />
+      <option name="MAIN_CLASS_NAME" value="Classroom.src.array_2d.multiplication_matrix" />
       <module name="DSA-Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Classroom.src.*" />
+          <option name="PATTERN" value="Classroom.src.array_2d.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,8 +113,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.add_2d_array" />
         <item itemvalue="Application.multiplication_matrix" />
+        <item itemvalue="Application.add_2d_array" />
         <item itemvalue="Application.multiplication_matrix (1)" />
       </list>
     </recent_temporary>
