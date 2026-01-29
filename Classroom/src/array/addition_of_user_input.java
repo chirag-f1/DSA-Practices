@@ -1,3 +1,5 @@
+package Classroom.src.array;
+
 public class addition_of_user_input{
     public static void main(String[] args) {
         int n =0;

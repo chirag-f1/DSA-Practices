@@ -1,5 +1,6 @@
+package Classroom.src.array;
+
 import java.util.*;
-import java.util.Arrays;
 
 public class duplicate_delete {
     public static void main(String[] args) {

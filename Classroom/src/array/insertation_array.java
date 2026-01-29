@@ -1,3 +1,5 @@
+package Classroom.src.array;
+
 import java.util.Scanner;
 
 public class insertation_array{
