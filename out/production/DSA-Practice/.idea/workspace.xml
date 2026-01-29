@@ -6,12 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f2f9f118-2fce-4398-bc46-b8cbb57d1749" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classroom/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classroom/src/array_addition.java" beforeDir="false" afterPath="$PROJECT_DIR$/Classroom/src/array_addition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HotelReservationSystem/src/HotelReservationSystem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practices/practice 2/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practices/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Practices/src/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HotelReservationSystem/src/HotelReservationSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/HotelReservationSystem/src/HotelReservationSystem.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,12 +16,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/chirag-f1/DSA-Practices.git",
-    "accountId": "b3112595-a9b3-45c3-acd9-c5ae9deec199"
-  }
-}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -35,22 +24,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.multiplication_matrix (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.multiplication_matrix.executor&quot;: &quot;Debug&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/chira/OneDrive/Desktop/DSA-Practice&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.multiplication_matrix.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/chira/OneDrive/Desktop/DSA-Practice",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
-  <component name="RunManager" selected="Application.multiplication_matrix">
+}]]></component>
+  <component name="RunManager" selected="Application.multiplication_matrix (1)">
     <configuration name="multiplication_matrix (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="multiplication_matrix" />
       <module name="DSA-Practice" />
@@ -73,8 +61,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.multiplication_matrix" />
         <item itemvalue="Application.multiplication_matrix (1)" />
+        <item itemvalue="Application.multiplication_matrix" />
       </list>
     </recent_temporary>
   </component>
