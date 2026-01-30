@@ -16,17 +16,18 @@ public class multiplication_matrix{
         int r2=sc.nextInt();
         int c2 = sc.nextInt();
         int b[][]= new int[r2][c2];
-
         int mul[][]=new int[r1][c2];
+
+        if(r2!=c1){
+            System.out.println("matrix doesn't exist bcoz of size bonding :");
+            return;
+        }
         System.out.println("enter the second matrix");
         for (int i = 0; i < r2; i++) {
             for (int j = 0; j < c2; j++) {
                 b[i][j]=sc.nextInt();
             }
-            if(r2!=c1){
-                System.out.println("matrix doesn't exist bcoz of size bonding :");
-break;
-            }
+
         }
 
 

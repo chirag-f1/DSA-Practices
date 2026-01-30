@@ -5,23 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f2f9f118-2fce-4398-bc46-b8cbb57d1749" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Classroom/src/addtion_of_matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classroom/src/array_2d/multiplication_matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classroom/src/array_addition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classroom/src/sum_of_diagonal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classroom/src/transpose_matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/practice/kadane_algorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/practice/maximum_subarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/practice/maximum_subarray_sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/practice/min_max_swap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/practice/sum_nd_product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/practice/uniques.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practices/practice/maximum_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practices/practice/minimum_array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practices/practice/reverse_the_array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classroom/src/array_2d/add_2d_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/Classroom/src/array_2d/add_2d_array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA-Practice/Classroom/src/multiplication_matrix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA-Practice/addition_of_user_input.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA-Practice/count_neg_pos.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA-Practice/deletion_of_array.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA-Practice/duplicate_delete.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA-Practice/findoffeven.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA-Practice/insertation_array.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA-Practice/linear_search.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA-Practice/occurence_0f_array.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA-Practice/occurence_of_array.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classroom/src/array_2d/multiplication_matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/Classroom/src/array_2d/multiplication_matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practices/practice 2/src/extra_candies.java" beforeDir="false" afterPath="$PROJECT_DIR$/Technical skills/src/extra_candies.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practices/practice 2/src/unique_num.java" beforeDir="false" afterPath="$PROJECT_DIR$/Technical skills/src/unique_num.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA-Practice/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA-Practice/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DSA-Practice/Classroom/src/array_2d/multiplication_matrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA-Practice/Classroom/src/array_2d/multiplication_matrix.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,18 +36,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "chirag-f1"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;chirag-f1&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/chirag-f1/DSA-Practices.git",
-    "accountId": "b3112595-a9b3-45c3-acd9-c5ae9deec199"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/chirag-f1/DSA-Practices.git&quot;,
+    &quot;accountId&quot;: &quot;b3112595-a9b3-45c3-acd9-c5ae9deec199&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -64,8 +62,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.add_2d_array.executor": "Run",
+    "Application.kadane_algorithm.executor": "Run",
+    "Application.maximum_array.executor": "Run",
+    "Application.maximum_subarray.executor": "Run",
+    "Application.maximum_subarray_sum.executor": "Run",
+    "Application.min_max_swap.executor": "Run",
+    "Application.minimum_array.executor": "Run",
     "Application.multiplication_matrix (1).executor": "Run",
     "Application.multiplication_matrix.executor": "Run",
+    "Application.reverse_the_array.executor": "Run",
+    "Application.sum_nd_product.executor": "Run",
+    "Application.uniques.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -75,15 +82,20 @@
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/chira/OneDrive/Desktop/DSA-Practice",
     "settings.editor.selected.configurable": "preferences.keymap"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JAVA"
+    ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.multiplication_matrix">
-    <configuration name="add_2d_array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Classroom.src.array_2d.add_2d_array" />
+  <component name="RunManager" selected="Application.kadane_algorithm">
+    <configuration name="kadane_algorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.practice.kadane_algorithm" />
       <module name="DSA-Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Classroom.src.array_2d.*" />
+          <option name="PATTERN" value="Practice.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,19 +103,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="multiplication_matrix (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="multiplication_matrix" />
+    <configuration name="maximum_subarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.practice.maximum_subarray" />
       <module name="DSA-Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="multiplication_matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Classroom.src.array_2d.multiplication_matrix" />
+    <configuration name="maximum_subarray_sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.practice.maximum_subarray_sum" />
       <module name="DSA-Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Classroom.src.array_2d.*" />
+          <option name="PATTERN" value="Practice.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="min_max_swap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.practice.min_max_swap" />
+      <module name="DSA-Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uniques" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.practice.uniques" />
+      <module name="DSA-Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,9 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.multiplication_matrix" />
-        <item itemvalue="Application.add_2d_array" />
-        <item itemvalue="Application.multiplication_matrix (1)" />
+        <item itemvalue="Application.kadane_algorithm" />
+        <item itemvalue="Application.maximum_subarray_sum" />
+        <item itemvalue="Application.maximum_subarray" />
+        <item itemvalue="Application.uniques" />
+        <item itemvalue="Application.min_max_swap" />
       </list>
     </recent_temporary>
   </component>
